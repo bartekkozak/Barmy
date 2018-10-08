@@ -312,7 +312,7 @@ header {
 
 .list-inline-item img {
   width: 100%;
-  height: 160px; }
+  height: 100%; }
 
 #myCarousel .list-inline {
   white-space: nowrap; }
@@ -340,7 +340,7 @@ header {
   .img-fluid {
     width: 100% !important; }
   .list-inline-item img {
-    height: 302px; }
+    height: 100%; }
   #myCarousel .carousel-indicators > li.active img {
     border-width: 10px; } }
 
