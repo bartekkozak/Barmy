@@ -337,10 +337,6 @@ header {
           filter: brightness(2); }
 
 @media (min-width: 1800px) {
-  .img-fluid {
-    width: 100% !important; }
-  .list-inline-item img {
-    height: 100%; }
   #myCarousel .carousel-indicators > li.active img {
     border-width: 10px; } }
 
